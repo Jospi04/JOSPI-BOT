@@ -2,7 +2,7 @@
   "name": "Nombre",
   "version": "0.0.0",
   "description": "",
-  "main": "nombre del archivo creado anteriormente.js",
+  "main": "jospi.js",
   "scripts": {
   "start": "node jospi.js"
   },
