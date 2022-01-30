@@ -1,6 +1,6 @@
 {
-  "name": "Nombre",
-  "version": "0.0.0",
+  "name": "JOSPI-BOT",
+  "version": "1.0.0",
   "description": "",
   "main": "jospi.js",
   "scripts": {
